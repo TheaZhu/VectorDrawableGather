@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="500dp"
+    android:height="500dp"
+    android:viewportHeight="500"
+    android:viewportWidth="500">
+
+    <group
+        android:scaleX="5.0"
+        android:scaleY="5.0">
+
+        <path
+            android:name="star"
+            android:pathData="@string/path_star"
+            android:strokeColor="@color/yellow_A200"
+            android:strokeWidth="1" />
+    </group>
+</vector>

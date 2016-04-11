@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="path_search">M141,17 A9,9 0 1,1 142,16 L149,23</string>
+
+    <integer name="duration_search">800</integer>
+    <integer name="duration_bar">600</integer>
+</resources>
